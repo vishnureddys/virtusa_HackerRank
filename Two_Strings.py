@@ -1,7 +1,7 @@
-###
+'''
 The link to the problem statement.
 https://hackerrank-challenge-pdfs.s3.amazonaws.com/5187-two-strings-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1587324042&Signature=d4O0krpcemkAZQJMu%2BlSyoB272g%3D&response-content-disposition=inline%3B%20filename%3Dtwo-strings-English.pdf&response-content-type=application%2Fpdf
-###
+'''
 #!/bin/python3
 
 import math
